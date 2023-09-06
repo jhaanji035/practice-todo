@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.formStyle {
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  height: 500px;
+}
+.inputControl {
+  display: flex;
+  justify-content: space-between;
+}
+.buttonControl {
+  display: flex;
+  justify-content: space-between;
+}
